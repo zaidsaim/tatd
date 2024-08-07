@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267168549586",
+    "project_id": "tatd-cc9e2",
+    "storage_bucket": "tatd-cc9e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267168549586:android:ba1640ad24cc9179ccfb0b",
+        "android_client_info": {
+          "package_name": "com.tatd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT2F4Z65519sgmkgQqamzPmLXXCKaGpwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

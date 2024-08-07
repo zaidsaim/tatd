@@ -1,0 +1,10 @@
+
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const OTP_REQUEST = 'OTP_REQUEST';
+export const OTP_SUCCESS = 'OTP_SUCCESS';
+export const OTP_FAIL = 'OTP_FAIL';
+export const RESENT_OTP_REQUEST = 'RESENT_OTP_REQUEST';
+export const RESENT_OTP_SUCCESS = 'RESENT_OTP_SUCCESS';
+export const RESENT_OTP_FAIL = 'RESENT_OTP_FAIL';
